@@ -1,0 +1,14 @@
+{
+  "name": "isi-kanonierzy-setup",
+  "version": "1.0.0",
+  "description": "Exctracting data and setting up elasticsearch",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "puppeteer": "^1.14.0"
+  },
+  "author": "Bogusz Napierała",
+  "license": "ISC"
+}
